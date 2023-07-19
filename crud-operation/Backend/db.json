@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Ajay",
+      "salary": "32000",
+      "company": "Infy",
+      "id": 1
+    },
+    {
+      "name": "John",
+      "salary": "33200",
+      "company": "LTI",
+      "id": 2
+    },
+    {
+      "name": "Ken",
+      "salary": "26500",
+      "company": "TCS",
+      "id": 3
+    },
+    {
+      "name": "Vikram",
+      "salary": "41000",
+      "company": "Accenture",
+      "id": 4
+    },
+    {
+      "name": "Chan",
+      "salary": "27550",
+      "company": "Wipro",
+      "id": 5
+    }
+  ]
+}
